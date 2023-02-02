@@ -1,0 +1,20 @@
+.mainDivFP {
+    width: 40%;
+    
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 5%;
+    padding: 20px;
+  }
+  .cardFP {
+    overflow: hidden;
+    border: 0 !important;
+    border-radius: 10px !important;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    
+  }
+
+  .reserPwBtn{
+    background-color: #59A799;
+  }
