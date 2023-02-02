@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html,
+body,
+#fullheight {
+  min-height: 100% !important;
+  height: 100%;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+  /* background-color: #03a9f4; */
+}
+.mainDiv {
+  width: 40%;
+  height: 350px;
+  background-color: #ffffff;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 5%;
+  padding: 20px;
+}
+.logingbtn{
+  background-color: #59A799;
+}
+.logindiv {
+  width: 350px;
+  margin: auto;
+}
+
+
+.card2 {
+  overflow: hidden;
+  border: 0 !important;
+  border-radius: 10px !important;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+  
+}
+
+
+/*****/
+#username,
+#userpassword,
+#logingbtn {
+  width: 80%;
+  height: 40px;
+  margin-left: 35px;
+  margin-top: 50px;
+  border-radius: 5%;
+  /* min-width: 50px;
+  max-width: 200px; */
+}
+
+
+#username,
+#userpassword {
+  text-align: center;
+}
+#lbltask {
+  width: 200px;
+  height: 40px;
+  margin: auto;
+  font-family: "Akaya Telivigala", cursive;
+  font-size: 33px;
+}
+#forgotpassword {
+  width: 200px;
+  height: 40px;
+  margin-left: 180px;
+  font-family: "Akaya Telivigala", cursive;
+  font-size: 20px;
+}
+
+#signupbtn{
+  background-color: #59A799;
+}
